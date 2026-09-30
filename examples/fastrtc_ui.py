@@ -25,7 +25,7 @@ To install the dependencies for this script, run:
 pip install fastrtc google-genai python-dotenv
 ```
 
-If the `GOOGLE_API_KEY` environment variable is set,
+If the `GEMINI_API_KEY` environment variable is set,
 it will automatically be used. Otherwise, you will be prompted
 to enter it.
 
